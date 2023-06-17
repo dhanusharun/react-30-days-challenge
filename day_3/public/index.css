@@ -1,0 +1,48 @@
+ /* == General style === */
+ * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+
+  .main-wrapper{
+    width: 80rem !important;
+    height: 40rem !important;
+    margin: 2% 10%;
+    text-align: center;
+  }
+
+  .header-data{
+    margin: 0% !important;
+    padding: 5%;
+  }
+
+  .header-data h2 {
+    font-size: 60px;
+    font-weight: 400;
+    font-family: 'Play', sans-serif;
+  }
+
+  .header-data p {
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .grid-data{
+    margin: 0% 12%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .grid-box{
+    padding: 30px 10px;
+    width: 120px;
+    text-align: center;
+    border: 1px solid white;
+    color: white;
+    font-family: 'Play', sans-serif;
+    font-size: 20px;
+  }
