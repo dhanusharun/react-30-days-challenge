@@ -1,0 +1,7 @@
+.main-wrapper {
+  margin-top: 150px;
+  font-family: 'Hanken Grotesk', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
